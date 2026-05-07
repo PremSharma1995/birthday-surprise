@@ -5,7 +5,7 @@ import dudu from "../assets/dudu.mp4";
 export default function TeddyScreen({ next }) {
   return (
     <div className="screen">
-      <h1>Happy Birthday Dhebuuu.... 🎂</h1>
+      <h1>Happy Birthday Banduuuu.... 🎂</h1>
  
       <div style={{ width: 300, margin: "auto" }}>
         {/* <Lottie animationData={dudu} loop /> */}
