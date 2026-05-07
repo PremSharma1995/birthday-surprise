@@ -14,14 +14,14 @@ export default function Gifts({ next }) {
  
       {gift === 1 && (
         <div className="card">
-          <img src={her1} className="img" />
+          <img src={her1} className="img" alt="Smiling portrait of her"/>
           <p>You are my happiness 💖</p>
         </div>
       )}
  
       {gift === 2 && (
         <div className="card">
-          <img src={her2} className="img" />
+          <img src={her2} className="img" alt="Her with a joyful expression"/>
           <p>My world = You ❤️</p>
           <button onClick={next}>Next</button>
         </div>
