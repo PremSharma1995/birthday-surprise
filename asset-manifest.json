@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/birthday-surprise/static/css/main.da870269.css",
+    "main.js": "/birthday-surprise/static/js/main.780d92c3.js",
+    "static/media/cake.png": "/birthday-surprise/static/media/cake.b102ef461d3a39f2fb4d.png",
+    "static/media/music.mp3": "/birthday-surprise/static/media/music.6b7abeb02fd92c270298.mp3",
+    "static/media/voice.mp3": "/birthday-surprise/static/media/voice.bd04f3a023b2410be716.mp3",
+    "static/media/her1.jpg": "/birthday-surprise/static/media/her1.364ccefceb7842fca4ef.jpg",
+    "static/media/dudu.mp4": "/birthday-surprise/static/media/dudu.3d2ae6f8122dc710682e.mp4",
+    "static/media/her2.jpg": "/birthday-surprise/static/media/her2.b91aaea9f5a15433b586.jpg",
+    "static/media/angry.png": "/birthday-surprise/static/media/angry.48cef68b4bd37ac053bb.png",
+    "index.html": "/birthday-surprise/index.html",
+    "main.da870269.css.map": "/birthday-surprise/static/css/main.da870269.css.map",
+    "main.780d92c3.js.map": "/birthday-surprise/static/js/main.780d92c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da870269.css",
+    "static/js/main.780d92c3.js"
+  ]
+}
